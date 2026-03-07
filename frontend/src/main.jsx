@@ -12,6 +12,7 @@ import {
 } from "react-router-dom";
 import {
   Home,
+  Terms,
   Seller,
   ProtectedRoute,
   Auth,
@@ -38,6 +39,7 @@ const router = createBrowserRouter(
     <Route path="/" element={<App />} errorElement={<Error />}>
       <Route path="test" element={<Test />} />
       <Route path="" element={<Home />} />
+      <Route path="terms" element={<Terms />} />
       <Route path="login" element={<Auth isSignupPage={false} />} />
       <Route path="signup" element={<Auth isSignupPage={true} />} />
       <Route path="forget-password/:token" element={<ForgetPassword />} />
