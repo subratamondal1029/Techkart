@@ -23,7 +23,9 @@ const Footer = () => {
                   One place for every electronics
                 </p>
                 <p className="text-sm text-gray-600">
-                  &copy; Copyright {thisYear}. All Rights Reserved by TechKart.
+
+                  &copy; Copyright {thisYear} <a href="https://subratamondal.vercel.app" target="_blank" className="text-blue-500 hover:text-blue-700">Subrata Mondal</a>. All Rights Reserved.
+
                 </p>
               </div>
             </div>
