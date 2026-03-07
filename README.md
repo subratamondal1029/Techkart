@@ -82,18 +82,8 @@ Use the following test accounts to log in and explore the platform features:
 
 > **Note:** These credentials are for testing purposes only. You can also create your own account to explore the full experience.
 
-## 🤝 Collaborators
+---
+## License
 
-Special thanks to everyone who contributed to this project.
-
-[![Subrata Mondal](https://avatars.githubusercontent.com/u/164600228?v=4&s=100)](https://github.com/subratamondal1029)  
- **Subrata Mondal**
-
-## 📫 Contribute
-
-Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
-
-1. `git clone https://github.com/subratamondal1029/techkart.git`
-2. `git checkout -b feature/NAME`
-3. Follow commit patterns
-4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
+This project is source-visible and shared only for portfolio showcase purposes.  
+Commercial use, redistribution, or claiming ownership is not permitted without explicit permission from the author.
